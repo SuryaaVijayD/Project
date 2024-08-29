@@ -418,3 +418,10 @@ table {
 	margin-top: 10px;
 	margin-bottom:10px ;
 }
+/*********************************************************************/
+.card-content {
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  flex-wrap: wrap;
+}
